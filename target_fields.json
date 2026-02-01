@@ -1,0 +1,44 @@
+[
+  {
+    "fieldHandle": "sku",
+    "fieldLabel": "SKU",
+    "fieldType": "string"
+  },
+  {
+    "fieldHandle": "title",
+    "fieldLabel": "Product Title",
+    "fieldType": "string"
+  },
+  {
+    "fieldHandle": "productDescription",
+    "fieldLabel": "Product Description",
+    "fieldType": "string"
+  },
+  {
+    "fieldHandle": "price",
+    "fieldLabel": "Price",
+    "fieldType": "number"
+  },
+  {
+    "fieldHandle": "availableQuantity",
+    "fieldLabel": "Available Quantity",
+    "fieldType": "int",
+    "fieldDescription": "Quantity available for purchase"
+  },
+  {
+    "fieldHandle": "onHandQuantity",
+    "fieldLabel": "On Hand Quantity",
+    "fieldType": "int",
+    "fieldDescription": "Total quantity in warehouse including reserved items"
+  },
+  {
+    "fieldHandle": "email",
+    "fieldLabel": "Customer Email",
+    "fieldType": "string"
+  },
+  {
+    "fieldHandle": "createdAt",
+    "fieldLabel": "Created At",
+    "fieldType": "date"
+  }
+]
