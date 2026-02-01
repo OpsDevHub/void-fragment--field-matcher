@@ -1,6 +1,6 @@
 # Void Fragment: Field Matcher
 
-**Field Matcher** is a Void Fragment that matches fields between two systems
+**Field Matcher** is a [Void Fragment](https://github.com/OpsDevHub/void-fragments/tree/main/fragments) that matches fields between two systems
 based on *semantic meaning* --- not hardcoded rules.
 
 Given an input field (handle, label, type, and optional description),
@@ -189,6 +189,6 @@ for result in results:
 
 ## Void Fragments
 
-**Field Matcher** is part of **Void Fragments** --- a catalog of isolated
+**Field Matcher** is part of [**Void Fragments**](https://github.com/OpsDevHub/void-fragments/tree/main/fragments) --- a catalog of isolated
 capabilities extracted from Void Crystal and released as independent
 building blocks. Each fragment solves one specific problem and nothing more.
